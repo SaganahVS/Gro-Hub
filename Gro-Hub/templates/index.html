@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Gro-Hub Career Assistant</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="chat-container">
+    <div class="chat-header">Gro-Hub Career Assistant</div>
+    <div class="chat-body" id="chatBody">
+        <div class="message bot">
+            👋 Hi! I’m <b>Gro-Hub</b>, your AI career assistant.<br>
+            Upload your resume and I’ll:
+            <ul>
+                <li>Give feedback</li>
+                <li>Suggest job roles</li>
+                <li>Recommend skills</li>
+                <li>Provide a learning path 📚</li>
+            </ul>
+        </div>
+    </div>
+    <div class="chat-footer">
+        <input type="file" id="resumeInput" accept=".pdf,.docx">
+        <button onclick="uploadResume()">Analyze</button>
+    </div>
+</div>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,650 @@
+[
+    {
+        "resume_text": "Skilled in Java, C++, Python, SQL, Git. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Software Engineer"
+    },
+    {
+        "resume_text": "Skilled in Python, R, SQL, Machine Learning, Data Visualization. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Data Scientist"
+    },
+    {
+        "resume_text": "Skilled in Python, Machine Learning, TensorFlow, NLP, Computer Vision. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior AI Engineer"
+    },
+    {
+        "resume_text": "Skilled in HTML, CSS, JavaScript, React, Git. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Web Developer"
+    },
+    {
+        "resume_text": "Skilled in Swift, Kotlin, React Native, Android, iOS. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Mobile App Developer"
+    },
+    {
+        "resume_text": "Skilled in AWS, Azure, Docker, Python, Kubernetes. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Cloud Engineer"
+    },
+    {
+        "resume_text": "Skilled in Networking, TCP/IP, Firewalls, Router Configuration, Security. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Network Engineer"
+    },
+    {
+        "resume_text": "Skilled in HTML, CSS, JavaScript, React, Vue.js. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Frontend Developer"
+    },
+    {
+        "resume_text": "Skilled in Java, Node.js, SQL, NoSQL, API Development. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Backend Developer"
+    },
+    {
+        "resume_text": "Skilled in C#, Unity, Game Design, 3D Modeling, Problem Solving. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Game Developer"
+    },
+    {
+        "resume_text": "Skilled in Automated Testing, Selenium, Bug Tracking, Manual Testing, Regression Testing. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior QA Tester"
+    },
+    {
+        "resume_text": "Skilled in Adobe Photoshop, Illustrator, Creative Suite, Typography, Brand Design. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Graphic Designer"
+    },
+    {
+        "resume_text": "Skilled in Wireframing, Prototyping, Figma, Sketch, User Research. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior UX/UI Designer"
+    },
+    {
+        "resume_text": "Skilled in Content Writing, SEO, Research, Blogging, Editing. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Content Writer"
+    },
+    {
+        "resume_text": "Skilled in Social Media, SEO, PPC, Google Analytics, Content Marketing. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Marketing Executive"
+    },
+    {
+        "resume_text": "Skilled in Sales Techniques, Customer Relationship, Communication, Negotiation, Product Knowledge. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Sales Associate"
+    },
+    {
+        "resume_text": "Skilled in Problem Solving, Customer Service, Communication, Product Knowledge, CRM. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Customer Support Representative"
+    },
+    {
+        "resume_text": "Skilled in Recruitment, Employee Relations, Payroll, HRMS, Compliance. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior HR Assistant"
+    },
+    {
+        "resume_text": "Skilled in Data Analysis, SQL, Excel, Stakeholder Management, Reporting. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Business Analyst"
+    },
+    {
+        "resume_text": "Skilled in Excel, Financial Modeling, Accounting, Financial Reporting, Forecasting. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Finance Analyst"
+    },
+    {
+        "resume_text": "Skilled in Accounting, Taxation, Bookkeeping, Excel, Financial Reporting. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Accountant"
+    },
+    {
+        "resume_text": "Skilled in AutoCAD, SolidWorks, Mechanical Design, Mathematics, Problem Solving. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Mechanical Engineer"
+    },
+    {
+        "resume_text": "Skilled in Circuit Design, AutoCAD, Control Systems, Power Distribution, Problem Solving. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Electrical Engineer"
+    },
+    {
+        "resume_text": "Skilled in AutoCAD, Surveying, Construction Management, Soil Testing, Blueprint Reading. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Civil Engineer"
+    },
+    {
+        "resume_text": "Skilled in Lean Manufacturing, Process Optimization, CAD, Simulation, Supply Chain Management. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Industrial Engineer"
+    },
+    {
+        "resume_text": "Skilled in Patient Care, Medical Terminology, Basic Nursing, Clinical Skills, Compassion. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Healthcare Assistant"
+    },
+    {
+        "resume_text": "Skilled in Patient Care, Clinical Skills, Medication Administration, Empathy, Communication. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Nurse"
+    },
+    {
+        "resume_text": "Skilled in Pharmaceutical Knowledge, Patient Care, Medication Dispensing, Inventory Management, Clinical Knowledge. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Pharmacist"
+    },
+    {
+        "resume_text": "Skilled in Healthcare Management, Patient Records, Medical Billing, Compliance, Data Management. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Healthcare Administrator"
+    },
+    {
+        "resume_text": "Skilled in Classroom Management, Lesson Planning, Student Engagement, Communication, Patience. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Teacher"
+    },
+    {
+        "resume_text": "Skilled in Research Methodology, Scientific Writing, Laboratory Skills, Data Analysis, Report Writing. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Research Scientist"
+    },
+    {
+        "resume_text": "Skilled in Environmental Studies, Waste Management, Pollution Control, Environmental Policy, Sustainability. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Environmental Engineer"
+    },
+    {
+        "resume_text": "Skilled in Legal Research, Drafting Contracts, Legal Writing, Legal Terminology, Compliance. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Legal Assistant"
+    },
+    {
+        "resume_text": "Skilled in Project Planning, Time Management, Stakeholder Communication, Team Collaboration, Budgeting. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Project Manager"
+    },
+    {
+        "resume_text": "Skilled in Logistics, Inventory Management, Excel, Demand Forecasting, ERP Systems. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Supply Chain Analyst"
+    },
+    {
+        "resume_text": "Skilled in Operations Management, Teamwork, Process Improvement, Data Management, Scheduling. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Operations Assistant"
+    },
+    {
+        "resume_text": "Skilled in Sales Support, CRM, Customer Service, Negotiation, Communication. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Sales Coordinator"
+    },
+    {
+        "resume_text": "Skilled in Troubleshooting, Hardware Support, Software Installation, Networking, Customer Support. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior IT Support Specialist"
+    },
+    {
+        "resume_text": "Skilled in Java, Python, C++, SQL, Git. Applied knowledge in relevant projects and tasks.",
+        "label": "Software Engineer"
+    },
+    {
+        "resume_text": "Skilled in Deep Learning, Reinforcement Learning, NLP, TensorFlow, Python. Applied knowledge in relevant projects and tasks.",
+        "label": "AI Researcher"
+    },
+    {
+        "resume_text": "Skilled in Python, TensorFlow, Machine Learning, NLP, Computer Vision. Applied knowledge in relevant projects and tasks.",
+        "label": "AI Engineer"
+    },
+    {
+        "resume_text": "Skilled in Python, TensorFlow, Keras, Data Preprocessing, Scikit-learn. Applied knowledge in relevant projects and tasks.",
+        "label": "Machine Learning Engineer"
+    },
+    {
+        "resume_text": "Skilled in Python, R, SQL, Machine Learning, Data Visualization. Applied knowledge in relevant projects and tasks.",
+        "label": "Data Scientist"
+    },
+    {
+        "resume_text": "Skilled in HTML, CSS, JavaScript, React, Node.js. Applied knowledge in relevant projects and tasks.",
+        "label": "Web Developer"
+    },
+    {
+        "resume_text": "Skilled in Swift, Kotlin, React Native, Android, iOS. Applied knowledge in relevant projects and tasks.",
+        "label": "Mobile App Developer"
+    },
+    {
+        "resume_text": "Skilled in AWS, Azure, Google Cloud, Docker, Kubernetes. Applied knowledge in relevant projects and tasks.",
+        "label": "Cloud Architect"
+    },
+    {
+        "resume_text": "Skilled in AWS, Google Cloud, Docker, Kubernetes, Python. Applied knowledge in relevant projects and tasks.",
+        "label": "Cloud Engineer"
+    },
+    {
+        "resume_text": "Skilled in Java, Node.js, SQL, NoSQL, API Development. Applied knowledge in relevant projects and tasks.",
+        "label": "Backend Developer"
+    },
+    {
+        "resume_text": "Skilled in HTML, CSS, JavaScript, React, Vue.js. Applied knowledge in relevant projects and tasks.",
+        "label": "Frontend Developer"
+    },
+    {
+        "resume_text": "Skilled in Linux, Docker, Kubernetes, CI/CD, AWS. Applied knowledge in relevant projects and tasks.",
+        "label": "DevOps Engineer"
+    },
+    {
+        "resume_text": "Skilled in Linux, Windows Server, Networking, Troubleshooting, Virtualization. Applied knowledge in relevant projects and tasks.",
+        "label": "Systems Administrator"
+    },
+    {
+        "resume_text": "Skilled in Network Security, Firewalls, Penetration Testing, Malware Analysis. Applied knowledge in relevant projects and tasks.",
+        "label": "Cybersecurity Analyst"
+    },
+    {
+        "resume_text": "Skilled in Cybersecurity, Network Security, Firewalls, Threat Intelligence, Ethical Hacking. Applied knowledge in relevant projects and tasks.",
+        "label": "Security Engineer"
+    },
+    {
+        "resume_text": "Skilled in C, Circuit Design, Embedded Systems, Microcontrollers, FPGA. Applied knowledge in relevant projects and tasks.",
+        "label": "Hardware Engineer"
+    },
+    {
+        "resume_text": "Skilled in Circuit Design, Signal Processing, Power Systems, Control Systems, Electronics. Applied knowledge in relevant projects and tasks.",
+        "label": "Electrical Engineer"
+    },
+    {
+        "resume_text": "Skilled in AutoCAD, SolidWorks, Thermodynamics, Mechanical Design, Project Management. Applied knowledge in relevant projects and tasks.",
+        "label": "Mechanical Engineer"
+    },
+    {
+        "resume_text": "Skilled in AutoCAD, Structural Design, Surveying. Applied knowledge in relevant projects and tasks.",
+        "label": "Civil Engineer"
+    },
+    {
+        "resume_text": "Skilled in Python, SQL, and Tableau. Applied knowledge in relevant projects and tasks.",
+        "label": "DataAnalyst"
+    },
+    {
+        "resume_text": "Skilled in Java, Spring Boot, and REST APIs. Applied knowledge in relevant projects and tasks.",
+        "label": "Backend Developer"
+    },
+    {
+        "resume_text": "Skilled in HTML, CSS, JavaScript, and React. Applied knowledge in relevant projects and tasks.",
+        "label": "Frontend Developer"
+    },
+    {
+        "resume_text": "Skilled in deep learning, Python, TensorFlow and machine learning. Applied knowledge in relevant projects and tasks.",
+        "label": "Machine Learning Engineer"
+    },
+    {
+        "resume_text": "Skilled in TensorFlow / PyTorch, ML Model Tuning & Deployment, NLP / Computer Vision, Ethical AI & Explainability. Applied knowledge in relevant projects and tasks.",
+        "label": "AI / ML Engineer"
+    },
+    {
+        "resume_text": "Skilled in Prompt Design (Few\u2011Shot, Chain\u2011of\u2011Thought), LLM API Integration, NLP Frameworks (spaCy, Hugging Face), Creative & Analytical Thinking. Applied knowledge in relevant projects and tasks.",
+        "label": "Prompt Engineer"
+    },
+    {
+        "resume_text": "Skilled in Smart Contracts (Solidity, Ethereum), Cryptography & DeFi Research, DApp Development, Distributed Ledger Platforms (Hyperledger). Applied knowledge in relevant projects and tasks.",
+        "label": "Blockchain Developer"
+    },
+    {
+        "resume_text": "Skilled in Embedded C/C++ / Hardware Interfacing, Sensor Integration & Networking, IoT Platforms (AWS IoT, Azure IoT), Security for Edge Devices. Applied knowledge in relevant projects and tasks.",
+        "label": "IoT / Embedded Engineer"
+    },
+    {
+        "resume_text": "Skilled in RPA Tools (UiPath, Blue Prism), Workflow Automation, Integration with APIs / Databases, Testing & BOT Maintenance. Applied knowledge in relevant projects and tasks.",
+        "label": "RPA Developer"
+    },
+    {
+        "resume_text": "Skilled in Carbon Tracking & Emissions Analytics, Sustainability Reporting Tools, Environmental Data Modeling, Cross-Functional Consulting. Applied knowledge in relevant projects and tasks.",
+        "label": "ESG Analyst / Sustainability Tech"
+    },
+    {
+        "resume_text": "Skilled in Robotics Integration with AI, Real-Time Systems & Edge Processing, Cloud-Connected Robot Deployments, Client-Facing Technical Skills. Applied knowledge in relevant projects and tasks.",
+        "label": "Edge / Robotics Application Engineer"
+    },
+    {
+        "resume_text": "Skilled in Ethical Frameworks for AI, Policy & Regulation (Bias, Privacy), Cross-Team Stakeholder Engagement, Explainable AI Methods. Applied knowledge in relevant projects and tasks.",
+        "label": "AI Ethics Specialist"
+    },
+    {
+        "resume_text": "Skilled in GDPR / CCPA Compliance, Privacy-Enhancing Technologies (PETs), Audit & Risk Management, Communication & Policy Development. Applied knowledge in relevant projects and tasks.",
+        "label": "Data Privacy Officer"
+    },
+    {
+        "resume_text": "Skilled in Internal Developer Platforms (IDP), Cloud-native Observability, Performance Monitoring, Infrastructure Automation. Applied knowledge in relevant projects and tasks.",
+        "label": "Platform Engineer"
+    },
+    {
+        "resume_text": "Skilled in Real-time Edge Processing, Secure Device Communication, Low-latency System Design, IoT Network Architecture. Applied knowledge in relevant projects and tasks.",
+        "label": "Edge Computing / IoT Specialist"
+    },
+    {
+        "resume_text": "Skilled in AI Agent Architecture & Training, Prompt Engineering, NLP Integration, Cross-functional Collaboration. Applied knowledge in relevant projects and tasks.",
+        "label": "Agentic AI Specialist"
+    },
+    {
+        "resume_text": "Skilled in 5G Infrastructure, Low-latency Networking, IoT Integration, Network Security. Applied knowledge in relevant projects and tasks.",
+        "label": "5G Network Engineer"
+    },
+    {
+        "resume_text": "Skilled in Carbon & ESG Data Analytics, Sustainability Reporting Tools, Supply Chain Transparency, Cross-team Consulting Skills. Applied knowledge in relevant projects and tasks.",
+        "label": "Sustainability Tech / ESG Analyst"
+    },
+    {
+        "resume_text": "Skilled in Robotics + AI Integration, Edge Processing for Robots, Cloud-connected Automation, Client Implementation & Training. Applied knowledge in relevant projects and tasks.",
+        "label": "Robotics Application Engineer"
+    },
+    {
+        "resume_text": "Skilled in Process Modeling & Requirements Engineering, Stakeholder Communication, Business & Technical Alignment, Data Analysis & Documentation. Applied knowledge in relevant projects and tasks.",
+        "label": "Business Analyst (IT/BIZ)"
+    },
+    {
+        "resume_text": "Skilled in Penetration Testing / Ethical Hacking, Threat Intelligence & Incident Response, Zero Trust Architecture, Compliance (CISSP, ISO 27001). Applied knowledge in relevant projects and tasks.",
+        "label": "Cybersecurity Analyst / Specialist"
+    },
+    {
+        "resume_text": "Skilled in Multi-Cloud (AWS, Azure, GCP), Infrastructure as Code (Terraform, Ansible), Cloud Security & Cost Management, Serverless & Hybrid Cloud Design. Applied knowledge in relevant projects and tasks.",
+        "label": "Cloud Architect / Engineer"
+    },
+    {
+        "resume_text": "Skilled in CI/CD Tools (Jenkins, GitLab CI, CircleCI), Containerization (Docker, Kubernetes), Infrastructure Automation & GitOps, Monitoring & Observability (Prometheus, Grafana). Applied knowledge in relevant projects and tasks.",
+        "label": "DevOps / SRE Engineer"
+    },
+    {
+        "resume_text": "Skilled in Systems Design & Integration, Enterprise Cloud Migration Strategy, Security & Governance, Team Leadership & Stakeholder Management. Applied knowledge in relevant projects and tasks.",
+        "label": "Solution Architect"
+    },
+    {
+        "resume_text": "Skilled in Hadoop / Spark, ETL & Data Pipeline Management, NoSQL & SQL Databases, DataOps Practices. Applied knowledge in relevant projects and tasks.",
+        "label": "Big Data Engineer"
+    },
+    {
+        "resume_text": "Skilled in Quantum Programming (Qiskit, Cirq), Quantum Algorithms & Cryptography, Physics / Math (Quantum Mechanics), Problem-Solving for Complex Optimization. Applied knowledge in relevant projects and tasks.",
+        "label": "Quantum Computing Specialist"
+    },
+    {
+        "resume_text": "Skilled in Novel Model Development, Advanced ML/LLM Training, Paper Publication & Peer Review, Deep Learning Frameworks. Applied knowledge in relevant projects and tasks.",
+        "label": "AI Research Scientist"
+    },
+    {
+        "resume_text": "Skilled in Agile / Scrum Methodologies, User Research & Roadmapping, Technical Requirement Framing, Cross-Functional Alignment. Applied knowledge in relevant projects and tasks.",
+        "label": "Product Manager (AI / Tech)"
+    },
+    {
+        "resume_text": "Skilled in CAD & CAE (SolidWorks, AutoCAD, CATIA), Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Thermodynamics & Heat Transfer, Materials Science & Metallurgy, Controls & Automation Systems, 3D Printing & Additive Manufacturing, Data Analysis (Python, MATLAB, Excel), Problem Solving & Analytical Thinking, Project Management & Time Management, Communication & Team Collaboration, Sustainable Design Practices. Applied knowledge in relevant projects and tasks.",
+        "label": "Mechanical Engineer"
+    },
+    {
+        "resume_text": "Skilled in Mechanical Product/System Design, Technical Drawing & GD&T, Tolerance Stack-up & Failure Analysis, Rapid Prototyping & Testing, Materials Selection & Lifecycle Analysis, Cross-Functional Collaboration, Technical Documentation. Applied knowledge in relevant projects and tasks.",
+        "label": "Design Engineer"
+    },
+    {
+        "resume_text": "Skilled in Reliability & Asset Integrity Engineering, Failure Mode Analysis & Root Cause, Maintenance Scheduling & Cost Forecasting, Safety Compliance & Risk Assessment, Statistical Analysis & Logistics Planning, Communication & Decision Making. Applied knowledge in relevant projects and tasks.",
+        "label": "Maintenance Engineer"
+    },
+    {
+        "resume_text": "Skilled in PLC Programming (Siemens, Allen\u2011Bradley), SCADA / HMI System Design, Instrumentation & Control Systems, Pneumatics & Hydraulics, Automation Troubleshooting & QA, Robotics Integration. Applied knowledge in relevant projects and tasks.",
+        "label": "Controls / Automation Engineer"
+    },
+    {
+        "resume_text": "Skilled in Mechanism Design & Kinematics, Embedded Systems & Sensor Integration, Control Algorithms & Motion Planning, ROS / Robot Operating System, Simulation (MATLAB/Simulink), Prototyping & Additive Manufacturing. Applied knowledge in relevant projects and tasks.",
+        "label": "Robotics / Mechatronics Engineer"
+    },
+    {
+        "resume_text": "Skilled in Biomechanics & Continuum Mechanics, Implant / Prosthetic Device Design, Bioinstrumentation & Human Factors, Computational Mechanics & Simulation, Regulatory Standards for Medical Devices. Applied knowledge in relevant projects and tasks.",
+        "label": "Biomechanical Engineer"
+    },
+    {
+        "resume_text": "Skilled in Industrial Instrumentation Installation & Calibration, Automation & Control Systems Maintenance, Electronics & Sensor Networks, Blueprint Interpretation & Precision Measurements, Repair & Troubleshooting of Mechanical-Electrical Systems. Applied knowledge in relevant projects and tasks.",
+        "label": "Instrumentation Mechanic / Technician"
+    },
+    {
+        "resume_text": "Skilled in CAD Software, FEA, Prototyping, Lean Manufacturing, Cost Estimation, Quality Control, Team Collaboration, Problem Solving, Time Management. Applied knowledge in relevant projects and tasks.",
+        "label": "Manufacturing Engineer"
+    },
+    {
+        "resume_text": "Skilled in Quality Control Processes, Statistical Analysis, Root Cause Analysis, Manufacturing Processes, Engineering Mathematics, Communication Skills. Applied knowledge in relevant projects and tasks.",
+        "label": "Quality Control Engineer"
+    },
+    {
+        "resume_text": "Skilled in Product Development, Simulation (FEA/CFD), Prototyping, Data Analysis (MATLAB/Python), Research Methods, Innovation & Continuous Learning. Applied knowledge in relevant projects and tasks.",
+        "label": "R&D Engineer"
+    },
+    {
+        "resume_text": "Skilled in Control Systems Design, PLC Programming, Robotics, Automation, MATLAB/Simulink, Sensor Integration, Communication & Teamwork. Applied knowledge in relevant projects and tasks.",
+        "label": "Control Systems Engineer"
+    },
+    {
+        "resume_text": "Skilled in IoT Sensor Integration, Embedded Systems, Real-Time Data Analysis, Mechanical System Networking, Automation Troubleshooting, Technical Communication. Applied knowledge in relevant projects and tasks.",
+        "label": "IoT Solutions Architect (Mechanical)"
+    },
+    {
+        "resume_text": "Skilled in Predictive Maintenance, Python/ML Basics, Sensor Data Analysis, Automation, Problem Solving, Creativity, Idea Generation. Applied knowledge in relevant projects and tasks.",
+        "label": "AI Integration Specialist (Mechanical)"
+    },
+    {
+        "resume_text": "Skilled in SPC Data Analysis, Root Cause Analysis, Process Optimization, Technical Communication, Project Management, Equipment-Specific Tools. Applied knowledge in relevant projects and tasks.",
+        "label": "Equipment Engineer (Semiconductor)"
+    },
+    {
+        "resume_text": "Skilled in Machine Tool Operation, Blueprint Interpretation, CNC Programming, Precision Measurement, Attention to Detail, Technical Aptitude. Applied knowledge in relevant projects and tasks.",
+        "label": "Machinist / CNC Technician"
+    },
+    {
+        "resume_text": "Skilled in Reliability Engineering, Failure Mode Analysis, Scheduling, Logistics Planning, Safety Compliance, Decision Making, Communication. Applied knowledge in relevant projects and tasks.",
+        "label": "Maintenance Engineer (Industrial)"
+    },
+    {
+        "resume_text": "Skilled in Electrical systems maintenance,Troubleshooting & diagnostics,Preventive maintenance planning,Interpretation of schematics/blueprints,Safety & regulatory compliance,Communication & teamwork. Applied knowledge in relevant projects and tasks.",
+        "label": "Electrical Maintenance Engineer"
+    },
+    {
+        "resume_text": "Skilled in Failure mode analysis (FMEA/FMECA),Predictive maintenance techniques,Root-cause analysis,Reliability metrics (MTBF, downtime),Data analysis (Excel, MATLAB),Scheduling & logistics planning. Applied knowledge in relevant projects and tasks.",
+        "label": "Reliability Engineer (Electrical)"
+    },
+    {
+        "resume_text": "Skilled in Site supervision & coordination, Construction planning & scheduling, Blueprint interpretation & CAD, Material & quality control, Team communication & stakeholder coordination, Health, safety & environmental compliance. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Civil Engineer"
+    },
+    {
+        "resume_text": "Skilled in Project scheduling & budgeting, Resource planning & logistics, Risk assessment & site inspection, Coordination with architects, contractors & clients, Report generation & progress tracking, Regulatory compliance & permits management. Applied knowledge in relevant projects and tasks.",
+        "label": "Planning / Construction Engineer"
+    },
+    {
+        "resume_text": "Skilled in CAD (AutoCAD, SolidWorks, CATIA), Simulation (FEA/CFD), Material science, Prototyping, Problem-solving, Data analysis. Applied knowledge in relevant projects and tasks.",
+        "label": "Design Engineer"
+    },
+    {
+        "resume_text": "Skilled in Lean manufacturing, Six Sigma, Quality control, Process optimization, Production planning, Team communication. Applied knowledge in relevant projects and tasks.",
+        "label": "Manufacturing / Process Engineer"
+    },
+    {
+        "resume_text": "Skilled in Statistical analysis, Testing & inspection, ISO standards, Root cause analysis, Documentation, Coordination. Applied knowledge in relevant projects and tasks.",
+        "label": "Quality Control Engineer"
+    },
+    {
+        "resume_text": "Skilled in Preventive maintenance, Troubleshooting, Scheduling, Logistics planning, Safety compliance, Equipment reliability. Applied knowledge in relevant projects and tasks.",
+        "label": "Maintenance Engineer"
+    },
+    {
+        "resume_text": "Skilled in Site supervision, Construction planning, Blueprint interpretation, Quantity surveying, Safety compliance, Communication. Applied knowledge in relevant projects and tasks.",
+        "label": "Site Engineer"
+    },
+    {
+        "resume_text": "Skilled in AutoCAD, STAAD Pro, Structural analysis, Drafting, Cost estimation, Report writing. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Design Engineer"
+    },
+    {
+        "resume_text": "Skilled in Material testing, Inspection, Site audits, Compliance, Reporting, Analytical thinking. Applied knowledge in relevant projects and tasks.",
+        "label": "Quality Control Engineer (Civil)"
+    },
+    {
+        "resume_text": "Skilled in Construction basics, MS Excel, Project coordination, Communication, Planning, Problem-solving. Applied knowledge in relevant projects and tasks.",
+        "label": "Graduate Engineer Trainee (GET)"
+    },
+    {
+        "resume_text": "Skilled in Electrical system design, CAD/schematic drawing, Power electronics, Compliance standards, MATLAB/Simulink, Testing. Applied knowledge in relevant projects and tasks.",
+        "label": "Electrical Design Engineer"
+    },
+    {
+        "resume_text": "Skilled in C/C++, Microcontrollers, Hardware-software integration, Testing & debugging, Real-time systems. Applied knowledge in relevant projects and tasks.",
+        "label": "Embedded Systems Engineer"
+    },
+    {
+        "resume_text": "Skilled in Converter/inverter design, Simulation, PCB layout, Power semiconductors, Thermal management, Testing. Applied knowledge in relevant projects and tasks.",
+        "label": "Power Electronics Engineer"
+    },
+    {
+        "resume_text": "Skilled in Failure mode analysis (FMEA), Predictive maintenance techniques, Root-cause analysis, Reliability metrics (MTBF, downtime), Data analysis (Excel, MATLAB), Scheduling & logistics planning. Applied knowledge in relevant projects and tasks.",
+        "label": "Reliability / Maintenance Engineer (Electrical)"
+    },
+    {
+        "resume_text": "Skilled in Digital & analog circuit design, EDA tools (Cadence, Synopsys), Verification, Layout design, RTL coding, Testing. Applied knowledge in relevant projects and tasks.",
+        "label": "VLSI / IC Design Engineer"
+    },
+    {
+        "resume_text": "Skilled in Test plan creation, Fault diagnosis, Signal integrity, Measurement tools, Documentation, Compliance testing. Applied knowledge in relevant projects and tasks.",
+        "label": "Test / QA Engineer (Electronics)"
+    },
+    {
+        "resume_text": "Skilled in Control systems, Sensors & actuators, Embedded programming, ROS/robotics frameworks, System integration. Applied knowledge in relevant projects and tasks.",
+        "label": "Robotics & Automation Engineer"
+    },
+    {
+        "resume_text": "Skilled in CNC programming, Blueprint reading, Precision measurement, Machine setup, Attention to detail. Applied knowledge in relevant projects and tasks.",
+        "label": "CNC Machinist / Technician"
+    },
+    {
+        "resume_text": "Skilled in Production scheduling, Quality control, Process optimization, Equipment operation, Team coordination. Applied knowledge in relevant projects and tasks.",
+        "label": "Production / Manufacturing Technician"
+    },
+    {
+        "resume_text": "Skilled in CAD (SolidWorks, AutoCAD), FEA, Prototyping, Material selection, Testing, Problem-solving. Applied knowledge in relevant projects and tasks.",
+        "label": "Mechanical Design Engineer"
+    },
+    {
+        "resume_text": "Skilled in Preventive maintenance, Troubleshooting, Equipment repair, Safety compliance, Documentation. Applied knowledge in relevant projects and tasks.",
+        "label": "Maintenance Technician"
+    },
+    {
+        "resume_text": "Skilled in Structural analysis, STAAD Pro / ETABS, AutoCAD, Drafting, Load calculations. Applied knowledge in relevant projects and tasks.",
+        "label": "Junior Structural Design Engineer"
+    },
+    {
+        "resume_text": "Skilled in Project scheduling, MS Excel, Quantity surveying, Resource planning, Reporting. Applied knowledge in relevant projects and tasks.",
+        "label": "Planning Engineer"
+    },
+    {
+        "resume_text": "Skilled in AutoCAD, GIS, Surveying instruments, Technical drawing, Attention to detail. Applied knowledge in relevant projects and tasks.",
+        "label": "Surveyor / Drafter"
+    },
+    {
+        "resume_text": "Skilled in Circuit assembly, Testing & debugging, Wiring & layout, Multimeter usage, Safety standards. Applied knowledge in relevant projects and tasks.",
+        "label": "Electrical Technician"
+    },
+    {
+        "resume_text": "Skilled in Power distribution, Transformer design, Load flow analysis, Protection systems, MATLAB/SIMULINK. Applied knowledge in relevant projects and tasks.",
+        "label": "Power Systems Engineer"
+    },
+    {
+        "resume_text": "Skilled in C/C++, Microcontrollers, RTOS basics, PCB testing, Debugging tools. Applied knowledge in relevant projects and tasks.",
+        "label": "Embedded Firmware Engineer"
+    },
+    {
+        "resume_text": "Skilled in Test plan creation, Oscilloscope usage, Signal integrity, Automated testing, Documentation. Applied knowledge in relevant projects and tasks.",
+        "label": "Test / QA Engineer (Electronics)"
+    },
+    {
+        "resume_text": "Skilled in Verilog/VHDL, EDA tools (Cadence), Functional verification, Testbench development, RTL design. Applied knowledge in relevant projects and tasks.",
+        "label": "VLSI Verification Engineer"
+    },
+    {
+        "resume_text": "Skilled in Embedded C, Sensor integration, Networking (MQTT), Cloud connectivity, Security basics. Applied knowledge in relevant projects and tasks.",
+        "label": "IoT Systems Engineer"
+    },
+    {
+        "resume_text": "Skilled in Vehicle systems design, CAD, Manufacturing processes, Testing & diagnostics, Problem-solving. Applied knowledge in relevant projects and tasks.",
+        "label": "Automotive Engineer"
+    },
+    {
+        "resume_text": "Skilled in HVAC design, Thermodynamics, Energy efficiency, System analysis, AutoCAD. Applied knowledge in relevant projects and tasks.",
+        "label": "HVAC Engineer"
+    },
+    {
+        "resume_text": "Skilled in Project planning, Budgeting, Scheduling, Risk management, Communication. Applied knowledge in relevant projects and tasks.",
+        "label": "Project Engineer"
+    },
+    {
+        "resume_text": "Skilled in Solar/Wind systems, Mechanical design, Energy analysis, Sustainability, Data analysis. Applied knowledge in relevant projects and tasks.",
+        "label": "Renewable Energy Engineer"
+    },
+    {
+        "resume_text": "Skilled in Structural analysis, STAAD Pro/ETABS, AutoCAD, Load calculations, Drafting. Applied knowledge in relevant projects and tasks.",
+        "label": "Structural Engineer"
+    },
+    {
+        "resume_text": "Skilled in Cost estimation, Tendering, Quantity surveying, Construction planning, Excel. Applied knowledge in relevant projects and tasks.",
+        "label": "Civil Estimator"
+    },
+    {
+        "resume_text": "Skilled in Site supervision, Budget & schedule management, Quality control, Stakeholder coordination, Safety compliance. Applied knowledge in relevant projects and tasks.",
+        "label": "Site Manager / Construction Manager"
+    },
+    {
+        "resume_text": "Skilled in Troubleshooting, Control panel testing, Schematic reading, Customer interaction, Technical reporting. Applied knowledge in relevant projects and tasks.",
+        "label": "Field Support Engineer (Electrical)"
+    },
+    {
+        "resume_text": "Skilled in Assembly, Testing, Troubleshooting, Diagnostic tools, Maintenance. Applied knowledge in relevant projects and tasks.",
+        "label": "Electronics Technician"
+    },
+    {
+        "resume_text": "Skilled in Power distribution, Protection systems, Load flow analysis, MATLAB/Simulink, Transformer design. Applied knowledge in relevant projects and tasks.",
+        "label": "Power Systems Engineer"
+    },
+    {
+        "resume_text": "Skilled in Test plan creation, Oscilloscope use, Signal testing, Fault diagnosis, Documentation. Applied knowledge in relevant projects and tasks.",
+        "label": "Electronic Systems Test Engineer"
+    },
+    {
+        "resume_text": "Skilled in Verilog/VHDL, RTL verification, Testbench development, EDA tools, Functional testing. Applied knowledge in relevant projects and tasks.",
+        "label": "VLSI Verification Engineer"
+    },
+    {
+        "resume_text": "Skilled in Embedded C/C++, Sensor interfaces, MQTT/Networking, Cloud connectivity, Security basics. Applied knowledge in relevant projects and tasks.",
+        "label": "IoT Engineer"
+    },
+    {
+        "resume_text": "Skilled in Systems integration, Requirements analysis, Testing & validation, Problem-solving, Communication. Applied knowledge in relevant projects and tasks.",
+        "label": "Systems Engineer"
+    },
+    {
+        "resume_text": "Skilled in Project planning, Budget & schedule management, Risk assessment, Stakeholder coordination, MS Project. Applied knowledge in relevant projects and tasks.",
+        "label": "Project Engineer / Project Manager"
+    },
+    {
+        "resume_text": "Skilled in Testing & prototyping, Data collection, Technical reports, Quality control, Implementation. Applied knowledge in relevant projects and tasks.",
+        "label": "Engineering Technologist / Technician"
+    },
+    {
+        "resume_text": "Skilled in Technical sales, Client interaction, Proposal writing, Engineering knowledge, Negotiation. Applied knowledge in relevant projects and tasks.",
+        "label": "Sales Engineer"
+    },
+    {
+        "resume_text": "Skilled in Mechanisms design, PLCs, Robotics, Control systems, Embedded programming. Applied knowledge in relevant projects and tasks.",
+        "label": "Mechatronics Engineer"
+    },
+    {
+        "resume_text": "Skilled in Prototyping, Simulation (FEA/CFD), Data analysis, Problem-solving, Research. Applied knowledge in relevant projects and tasks.",
+        "label": "R&D Engineer"
+    },
+    {
+        "resume_text": "Skilled in PLC programming, SCADA/HMI, Process automation, Robotics integration, Troubleshooting. Applied knowledge in relevant projects and tasks.",
+        "label": "Automation Engineer"
+    },
+    {
+        "resume_text": "Skilled in Cost estimation, Bill of quantities, Tender documentation, Excel, Planning. Applied knowledge in relevant projects and tasks.",
+        "label": "Quantity Surveyor / Estimator"
+    },
+    {
+        "resume_text": "Skilled in Structural analysis, STAAD Pro/ETABS, AutoCAD, Load calcs, Drafting. Applied knowledge in relevant projects and tasks.",
+        "label": "Structural Design Engineer"
+    },
+    {
+        "resume_text": "Skilled in Power flow analysis, Protection systems, Distribution design, MATLAB/Simulink, Transformer ratings. Applied knowledge in relevant projects and tasks.",
+        "label": "Power Systems Engineer"
+    },
+    {
+        "resume_text": "Skilled in Troubleshooting, Control panel testing, Customer interaction, Technical reports, On-site support. Applied knowledge in relevant projects and tasks.",
+        "label": "Field Support / Field Service Engineer"
+    },
+    {
+        "resume_text": "Skilled in C/C++, Microcontroller programming, Hardware-software integration, RTOS basics, Debugging. Applied knowledge in relevant projects and tasks.",
+        "label": "Embedded / Firmware Engineer"
+    },
+    {
+        "resume_text": "Skilled in Verilog/VHDL, Testbench development, RTL verification, EDA tools (Cadence, Synopsys), Functional testing. Applied knowledge in relevant projects and tasks.",
+        "label": "VLSI Verification Engineer"
+    },
+    {
+        "resume_text": "Skilled in Problem-solving, Data analysis, Process optimization, Client engagement, Reporting. Applied knowledge in relevant projects and tasks.",
+        "label": "Consulting Engineer / Management Consultant"
+    },
+    {
+        "resume_text": "Skilled in Technical documentation, Research, Editing, Communication, Attention to detail. Applied knowledge in relevant projects and tasks.",
+        "label": "Technical Writer"
+    },
+    {
+        "resume_text": "Skilled in Environmental analysis, Sustainability practices, Waste management, Regulatory compliance, Reporting. Applied knowledge in relevant projects and tasks.",
+        "label": "Environmental / Sustainability Engineer"
+    }
+]

@@ -1,0 +1,813 @@
+[
+    {
+        "Job Role": "Junior Software Engineer",
+        "Skills Required": "Java, C++, Python, SQL, Git",
+        "CGPA": 6.28
+    },
+    {
+        "Job Role": "Junior Data Scientist",
+        "Skills Required": "Python, R, SQL, Machine Learning, Data Visualization",
+        "CGPA": 5.37
+    },
+    {
+        "Job Role": "Junior AI Engineer",
+        "Skills Required": "Python, Machine Learning, TensorFlow, NLP, Computer Vision",
+        "CGPA": 5.83
+    },
+    {
+        "Job Role": "Junior Web Developer",
+        "Skills Required": "HTML, CSS, JavaScript, React, Git",
+        "CGPA": 5.75
+    },
+    {
+        "Job Role": "Junior Mobile App Developer",
+        "Skills Required": "Swift, Kotlin, React Native, Android, iOS",
+        "CGPA": 7.69
+    },
+    {
+        "Job Role": "Junior Cloud Engineer",
+        "Skills Required": "AWS, Azure, Docker, Python, Kubernetes",
+        "CGPA": 5.32
+    },
+    {
+        "Job Role": "Junior Network Engineer",
+        "Skills Required": "Networking, TCP/IP, Firewalls, Router Configuration, Security",
+        "CGPA": 6.58
+    },
+    {
+        "Job Role": "Junior Frontend Developer",
+        "Skills Required": "HTML, CSS, JavaScript, React, Vue.js",
+        "CGPA": 8.76
+    },
+    {
+        "Job Role": "Junior Backend Developer",
+        "Skills Required": "Java, Node.js, SQL, NoSQL, API Development",
+        "CGPA": 6.33
+    },
+    {
+        "Job Role": "Junior Game Developer",
+        "Skills Required": "C#, Unity, Game Design, 3D Modeling, Problem Solving",
+        "CGPA": 8.6
+    },
+    {
+        "Job Role": "Junior QA Tester",
+        "Skills Required": "Automated Testing, Selenium, Bug Tracking, Manual Testing, Regression Testing",
+        "CGPA": 8.9
+    },
+    {
+        "Job Role": "Junior Graphic Designer",
+        "Skills Required": "Adobe Photoshop, Illustrator, Creative Suite, Typography, Brand Design",
+        "CGPA": 6.51
+    },
+    {
+        "Job Role": "Junior UX/UI Designer",
+        "Skills Required": "Wireframing, Prototyping, Figma, Sketch, User Research",
+        "CGPA": 9.01
+    },
+    {
+        "Job Role": "Junior Content Writer",
+        "Skills Required": "Content Writing, SEO, Research, Blogging, Editing",
+        "CGPA": 8.4
+    },
+    {
+        "Job Role": "Junior Marketing Executive",
+        "Skills Required": "Social Media, SEO, PPC, Google Analytics, Content Marketing",
+        "CGPA": 7.31
+    },
+    {
+        "Job Role": "Junior Sales Associate",
+        "Skills Required": "Sales Techniques, Customer Relationship, Communication, Negotiation, Product Knowledge",
+        "CGPA": 5.8
+    },
+    {
+        "Job Role": "Junior Customer Support Representative",
+        "Skills Required": "Problem Solving, Customer Service, Communication, Product Knowledge, CRM",
+        "CGPA": 7.54
+    },
+    {
+        "Job Role": "Junior HR Assistant",
+        "Skills Required": "Recruitment, Employee Relations, Payroll, HRMS, Compliance",
+        "CGPA": 10.01
+    },
+    {
+        "Job Role": "Junior Business Analyst",
+        "Skills Required": "Data Analysis, SQL, Excel, Stakeholder Management, Reporting",
+        "CGPA": 8.15
+    },
+    {
+        "Job Role": "Junior Finance Analyst",
+        "Skills Required": "Excel, Financial Modeling, Accounting, Financial Reporting, Forecasting",
+        "CGPA": 5.56
+    },
+    {
+        "Job Role": "Junior Accountant",
+        "Skills Required": "Accounting, Taxation, Bookkeeping, Excel, Financial Reporting",
+        "CGPA": 8.07
+    },
+    {
+        "Job Role": "Junior Mechanical Engineer",
+        "Skills Required": "AutoCAD, SolidWorks, Mechanical Design, Mathematics, Problem Solving",
+        "CGPA": 7.11
+    },
+    {
+        "Job Role": "Junior Electrical Engineer",
+        "Skills Required": "Circuit Design, AutoCAD, Control Systems, Power Distribution, Problem Solving",
+        "CGPA": 8.22
+    },
+    {
+        "Job Role": "Junior Civil Engineer",
+        "Skills Required": "AutoCAD, Surveying, Construction Management, Soil Testing, Blueprint Reading",
+        "CGPA": 9.17
+    },
+    {
+        "Job Role": "Junior Industrial Engineer",
+        "Skills Required": "Lean Manufacturing, Process Optimization, CAD, Simulation, Supply Chain Management",
+        "CGPA": 7.86
+    },
+    {
+        "Job Role": "Junior Healthcare Assistant",
+        "Skills Required": "Patient Care, Medical Terminology, Basic Nursing, Clinical Skills, Compassion",
+        "CGPA": 9.45
+    },
+    {
+        "Job Role": "Junior Nurse",
+        "Skills Required": "Patient Care, Clinical Skills, Medication Administration, Empathy, Communication",
+        "CGPA": 8.86
+    },
+    {
+        "Job Role": "Junior Pharmacist",
+        "Skills Required": "Pharmaceutical Knowledge, Patient Care, Medication Dispensing, Inventory Management, Clinical Knowledge",
+        "CGPA": 8.48
+    },
+    {
+        "Job Role": "Junior Healthcare Administrator",
+        "Skills Required": "Healthcare Management, Patient Records, Medical Billing, Compliance, Data Management",
+        "CGPA": 5.33
+    },
+    {
+        "Job Role": "Junior Teacher",
+        "Skills Required": "Classroom Management, Lesson Planning, Student Engagement, Communication, Patience",
+        "CGPA": 9.61
+    },
+    {
+        "Job Role": "Junior Research Scientist",
+        "Skills Required": "Research Methodology, Scientific Writing, Laboratory Skills, Data Analysis, Report Writing",
+        "CGPA": 9.58
+    },
+    {
+        "Job Role": "Junior Environmental Engineer",
+        "Skills Required": "Environmental Studies, Waste Management, Pollution Control, Environmental Policy, Sustainability",
+        "CGPA": 6.1
+    },
+    {
+        "Job Role": "Junior Legal Assistant",
+        "Skills Required": "Legal Research, Drafting Contracts, Legal Writing, Legal Terminology, Compliance",
+        "CGPA": 7.02
+    },
+    {
+        "Job Role": "Junior Project Manager",
+        "Skills Required": "Project Planning, Time Management, Stakeholder Communication, Team Collaboration, Budgeting",
+        "CGPA": 6.51
+    },
+    {
+        "Job Role": "Junior Supply Chain Analyst",
+        "Skills Required": "Logistics, Inventory Management, Excel, Demand Forecasting, ERP Systems",
+        "CGPA": 9.01
+    },
+    {
+        "Job Role": "Junior Operations Assistant",
+        "Skills Required": "Operations Management, Teamwork, Process Improvement, Data Management, Scheduling",
+        "CGPA": 9.11
+    },
+    {
+        "Job Role": "Junior Sales Coordinator",
+        "Skills Required": "Sales Support, CRM, Customer Service, Negotiation, Communication",
+        "CGPA": 5.97
+    },
+    {
+        "Job Role": "Junior IT Support Specialist",
+        "Skills Required": "Troubleshooting, Hardware Support, Software Installation, Networking, Customer Support",
+        "CGPA": 9.27
+    },
+    {
+        "Job Role": "Software Engineer",
+        "Skills Required": "Java, Python, C++, SQL, Git",
+        "CGPA": 5.96
+    },
+    {
+        "Job Role": "AI Researcher",
+        "Skills Required": "Deep Learning, Reinforcement Learning, NLP, TensorFlow, Python",
+        "CGPA": 8.86
+    },
+    {
+        "Job Role": "AI Engineer",
+        "Skills Required": "Python, TensorFlow, Machine Learning, NLP, Computer Vision",
+        "CGPA": 6.98
+    },
+    {
+        "Job Role": "Machine Learning Engineer",
+        "Skills Required": "Python, TensorFlow, Keras, Data Preprocessing, Scikit-learn",
+        "CGPA": 6.39
+    },
+    {
+        "Job Role": "Data Scientist",
+        "Skills Required": "Python, R, SQL, Machine Learning, Data Visualization",
+        "CGPA": 5.51
+    },
+    {
+        "Job Role": "Web Developer",
+        "Skills Required": "HTML, CSS, JavaScript, React, Node.js",
+        "CGPA": 5.89
+    },
+    {
+        "Job Role": "Mobile App Developer",
+        "Skills Required": "Swift, Kotlin, React Native, Android, iOS",
+        "CGPA": 8.72
+    },
+    {
+        "Job Role": "Cloud Architect",
+        "Skills Required": "AWS, Azure, Google Cloud, Docker, Kubernetes",
+        "CGPA": 8.16
+    },
+    {
+        "Job Role": "Cloud Engineer",
+        "Skills Required": "AWS, Google Cloud, Docker, Kubernetes, Python",
+        "CGPA": 5.16
+    },
+    {
+        "Job Role": "Backend Developer",
+        "Skills Required": "Java, Node.js, SQL, NoSQL, API Development",
+        "CGPA": 5.14
+    },
+    {
+        "Job Role": "Frontend Developer",
+        "Skills Required": "HTML, CSS, JavaScript, React, Vue.js",
+        "CGPA": 5.11
+    },
+    {
+        "Job Role": "DevOps Engineer",
+        "Skills Required": "Linux, Docker, Kubernetes, CI/CD, AWS",
+        "CGPA": 8.48
+    },
+    {
+        "Job Role": "Systems Administrator",
+        "Skills Required": "Linux, Windows Server, Networking, Troubleshooting, Virtualization",
+        "CGPA": 8.15
+    },
+    {
+        "Job Role": "Cybersecurity Analyst",
+        "Skills Required": "Network Security, Firewalls, Penetration Testing, Malware Analysis",
+        "CGPA": 5.18
+    },
+    {
+        "Job Role": "Security Engineer",
+        "Skills Required": "Cybersecurity, Network Security, Firewalls, Threat Intelligence, Ethical Hacking",
+        "CGPA": 7.89
+    },
+    {
+        "Job Role": "Hardware Engineer",
+        "Skills Required": "C, Circuit Design, Embedded Systems, Microcontrollers, FPGA",
+        "CGPA": 5.5
+    },
+    {
+        "Job Role": "Electrical Engineer",
+        "Skills Required": "Circuit Design, Signal Processing, Power Systems, Control Systems, Electronics",
+        "CGPA": 9.56
+    },
+    {
+        "Job Role": "Mechanical Engineer",
+        "Skills Required": "AutoCAD, SolidWorks, Thermodynamics, Mechanical Design, Project Management",
+        "CGPA": 9.38
+    },
+    {
+        "Job Role": "Civil Engineer",
+        "Skills Required": "AutoCAD, Structural Design, Surveying",
+        "CGPA": 5.67
+    },
+    {
+        "Job Role":"DataAnalyst",
+        "Skills Required":"Python, SQL, and Tableau",
+        "CGPA":8.25
+    },
+    {
+        "Job Role":"Backend Developer",
+        "Skills Required":"Java, Spring Boot, and REST APIs",
+        "CGPA": "7.52"
+    },
+    {
+        "Job Role":"Frontend Developer",
+        "Skills Required":"HTML, CSS, JavaScript, and React",
+        "CGPA":"8.23"
+    },
+    {
+        "Job Role":"Machine Learning Engineer",
+        "Skills Required":"deep learning, Python, TensorFlow and machine learning",
+        "CGPA":"8.55"
+    },
+    {
+        "Job Role": "AI / ML Engineer",
+        "Skills Required": "TensorFlow / PyTorch, ML Model Tuning & Deployment, NLP / Computer Vision, Ethical AI & Explainability",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Prompt Engineer",
+        "Skills Required": "Prompt Design (Few‑Shot, Chain‑of‑Thought), LLM API Integration, NLP Frameworks (spaCy, Hugging Face), Creative & Analytical Thinking",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Blockchain Developer",
+        "Skills Required": "Smart Contracts (Solidity, Ethereum), Cryptography & DeFi Research, DApp Development, Distributed Ledger Platforms (Hyperledger)",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "IoT / Embedded Engineer",
+        "Skills Required": "Embedded C/C++ / Hardware Interfacing, Sensor Integration & Networking, IoT Platforms (AWS IoT, Azure IoT), Security for Edge Devices",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "RPA Developer",
+        "Skills Required": "RPA Tools (UiPath, Blue Prism), Workflow Automation, Integration with APIs / Databases, Testing & BOT Maintenance",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "ESG Analyst / Sustainability Tech",
+        "Skills Required": "Carbon Tracking & Emissions Analytics, Sustainability Reporting Tools, Environmental Data Modeling, Cross-Functional Consulting",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Edge / Robotics Application Engineer",
+        "Skills Required": "Robotics Integration with AI, Real-Time Systems & Edge Processing, Cloud-Connected Robot Deployments, Client-Facing Technical Skills",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "AI Ethics Specialist",
+        "Skills Required": "Ethical Frameworks for AI, Policy & Regulation (Bias, Privacy), Cross-Team Stakeholder Engagement, Explainable AI Methods",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Data Privacy Officer",
+        "Skills Required": "GDPR / CCPA Compliance, Privacy-Enhancing Technologies (PETs), Audit & Risk Management, Communication & Policy Development",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Platform Engineer",
+        "Skills Required": "Internal Developer Platforms (IDP), Cloud-native Observability, Performance Monitoring, Infrastructure Automation",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Edge Computing / IoT Specialist",
+        "Skills Required": "Real-time Edge Processing, Secure Device Communication, Low-latency System Design, IoT Network Architecture",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Agentic AI Specialist",
+        "Skills Required": "AI Agent Architecture & Training, Prompt Engineering, NLP Integration, Cross-functional Collaboration",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "5G Network Engineer",
+        "Skills Required": "5G Infrastructure, Low-latency Networking, IoT Integration, Network Security",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Sustainability Tech / ESG Analyst",
+        "Skills Required": "Carbon & ESG Data Analytics, Sustainability Reporting Tools, Supply Chain Transparency, Cross-team Consulting Skills",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Robotics Application Engineer",
+        "Skills Required": "Robotics + AI Integration, Edge Processing for Robots, Cloud-connected Automation, Client Implementation & Training",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Business Analyst (IT/BIZ)",
+        "Skills Required": "Process Modeling & Requirements Engineering, Stakeholder Communication, Business & Technical Alignment, Data Analysis & Documentation",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Cybersecurity Analyst / Specialist",
+        "Skills Required": "Penetration Testing / Ethical Hacking, Threat Intelligence & Incident Response, Zero Trust Architecture, Compliance (CISSP, ISO 27001)",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Cloud Architect / Engineer",
+        "Skills Required": "Multi-Cloud (AWS, Azure, GCP), Infrastructure as Code (Terraform, Ansible), Cloud Security & Cost Management, Serverless & Hybrid Cloud Design",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "DevOps / SRE Engineer",
+        "Skills Required": "CI/CD Tools (Jenkins, GitLab CI, CircleCI), Containerization (Docker, Kubernetes), Infrastructure Automation & GitOps, Monitoring & Observability (Prometheus, Grafana)",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Solution Architect",
+        "Skills Required": "Systems Design & Integration, Enterprise Cloud Migration Strategy, Security & Governance, Team Leadership & Stakeholder Management",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Big Data Engineer",
+        "Skills Required": "Hadoop / Spark, ETL & Data Pipeline Management, NoSQL & SQL Databases, DataOps Practices",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Quantum Computing Specialist",
+        "Skills Required": "Quantum Programming (Qiskit, Cirq), Quantum Algorithms & Cryptography, Physics / Math (Quantum Mechanics), Problem-Solving for Complex Optimization",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "AI Research Scientist",
+        "Skills Required": "Novel Model Development, Advanced ML/LLM Training, Paper Publication & Peer Review, Deep Learning Frameworks",
+        "CGPA": 7.5
+    },
+    {
+        "Job Role": "Product Manager (AI / Tech)",
+        "Skills Required": "Agile / Scrum Methodologies, User Research & Roadmapping, Technical Requirement Framing, Cross-Functional Alignment",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Mechanical Engineer",
+        "Skills Required": "CAD & CAE (SolidWorks, AutoCAD, CATIA), Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Thermodynamics & Heat Transfer, Materials Science & Metallurgy, Controls & Automation Systems, 3D Printing & Additive Manufacturing, Data Analysis (Python, MATLAB, Excel), Problem Solving & Analytical Thinking, Project Management & Time Management, Communication & Team Collaboration, Sustainable Design Practices",
+        "CGPA": 9.63
+    },
+    {
+        "Job Role": "Design Engineer",
+        "Skills Required": "Mechanical Product/System Design, Technical Drawing & GD&T, Tolerance Stack-up & Failure Analysis, Rapid Prototyping & Testing, Materials Selection & Lifecycle Analysis, Cross-Functional Collaboration, Technical Documentation",
+        "CGPA": 9.63
+    },
+    {
+        "Job Role": "Maintenance Engineer",
+        "Skills Required": "Reliability & Asset Integrity Engineering, Failure Mode Analysis & Root Cause, Maintenance Scheduling & Cost Forecasting, Safety Compliance & Risk Assessment, Statistical Analysis & Logistics Planning, Communication & Decision Making",
+        "CGPA": 9.63
+    },
+    {
+        "Job Role": "Controls / Automation Engineer",
+        "Skills Required": "PLC Programming (Siemens, Allen‑Bradley), SCADA / HMI System Design, Instrumentation & Control Systems, Pneumatics & Hydraulics, Automation Troubleshooting & QA, Robotics Integration",
+        "CGPA": 9.63
+    },
+    {
+        "Job Role": "Robotics / Mechatronics Engineer",
+        "Skills Required": "Mechanism Design & Kinematics, Embedded Systems & Sensor Integration, Control Algorithms & Motion Planning, ROS / Robot Operating System, Simulation (MATLAB/Simulink), Prototyping & Additive Manufacturing",
+        "CGPA": 9.63
+    },
+    {
+        "Job Role": "Biomechanical Engineer",
+        "Skills Required": "Biomechanics & Continuum Mechanics, Implant / Prosthetic Device Design, Bioinstrumentation & Human Factors, Computational Mechanics & Simulation, Regulatory Standards for Medical Devices",
+        "CGPA": 9.63
+    },
+    {
+        "Job Role": "Instrumentation Mechanic / Technician",
+        "Skills Required": "Industrial Instrumentation Installation & Calibration, Automation & Control Systems Maintenance, Electronics & Sensor Networks, Blueprint Interpretation & Precision Measurements, Repair & Troubleshooting of Mechanical-Electrical Systems",
+        "CGPA": 9.63
+    },
+    {
+        "Job Role": "Manufacturing Engineer",
+        "Skills Required": "CAD Software, FEA, Prototyping, Lean Manufacturing, Cost Estimation, Quality Control, Team Collaboration, Problem Solving, Time Management",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Quality Control Engineer",
+        "Skills Required": "Quality Control Processes, Statistical Analysis, Root Cause Analysis, Manufacturing Processes, Engineering Mathematics, Communication Skills",
+        "CGPA": 6.8
+    },
+    {
+        "Job Role": "R&D Engineer",
+        "Skills Required": "Product Development, Simulation (FEA/CFD), Prototyping, Data Analysis (MATLAB/Python), Research Methods, Innovation & Continuous Learning",
+        "CGPA": 7.5
+    },
+    {
+        "Job Role": "Control Systems Engineer",
+        "Skills Required": "Control Systems Design, PLC Programming, Robotics, Automation, MATLAB/Simulink, Sensor Integration, Communication & Teamwork",
+        "CGPA": 7.2
+    },
+    {
+        "Job Role": "IoT Solutions Architect (Mechanical)",
+        "Skills Required": "IoT Sensor Integration, Embedded Systems, Real-Time Data Analysis, Mechanical System Networking, Automation Troubleshooting, Technical Communication",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "AI Integration Specialist (Mechanical)",
+        "Skills Required": "Predictive Maintenance, Python/ML Basics, Sensor Data Analysis, Automation, Problem Solving, Creativity, Idea Generation",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Equipment Engineer (Semiconductor)",
+        "Skills Required": "SPC Data Analysis, Root Cause Analysis, Process Optimization, Technical Communication, Project Management, Equipment-Specific Tools",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Machinist / CNC Technician",
+        "Skills Required": "Machine Tool Operation, Blueprint Interpretation, CNC Programming, Precision Measurement, Attention to Detail, Technical Aptitude",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Maintenance Engineer (Industrial)",
+        "Skills Required": "Reliability Engineering, Failure Mode Analysis, Scheduling, Logistics Planning, Safety Compliance, Decision Making, Communication",
+        "CGPA": 6.8
+    },
+    {
+        "Job Role": "Electrical Maintenance Engineer",
+        "Skills Required":"Electrical systems maintenance,Troubleshooting & diagnostics,Preventive maintenance planning,Interpretation of schematics/blueprints,Safety & regulatory compliance,Communication & teamwork",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Reliability Engineer (Electrical)",
+        "Skills Required":"Failure mode analysis (FMEA/FMECA),Predictive maintenance techniques,Root-cause analysis,Reliability metrics (MTBF, downtime),Data analysis (Excel, MATLAB),Scheduling & logistics planning",
+        "CGPA": 7.5
+    },
+    {
+        "Job Role": "Junior Civil Engineer",
+        "Skills Required": "Site supervision & coordination, Construction planning & scheduling, Blueprint interpretation & CAD, Material & quality control, Team communication & stakeholder coordination, Health, safety & environmental compliance",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Planning / Construction Engineer",
+        "Skills Required": "Project scheduling & budgeting, Resource planning & logistics, Risk assessment & site inspection, Coordination with architects, contractors & clients, Report generation & progress tracking, Regulatory compliance & permits management",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Design Engineer",
+        "Skills Required": "CAD (AutoCAD, SolidWorks, CATIA), Simulation (FEA/CFD), Material science, Prototyping, Problem-solving, Data analysis",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Manufacturing / Process Engineer",
+        "Skills Required": "Lean manufacturing, Six Sigma, Quality control, Process optimization, Production planning, Team communication",
+         "CGPA": 6.8
+    },
+    {
+        "Job Role": "Quality Control Engineer",
+        "Skills Required": "Statistical analysis, Testing & inspection, ISO standards, Root cause analysis, Documentation, Coordination",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Maintenance Engineer",
+        "Skills Required": "Preventive maintenance, Troubleshooting, Scheduling, Logistics planning, Safety compliance, Equipment reliability",
+        "CGPA": 6.8
+    },
+    {
+        "Job Role": "Site Engineer",
+        "Skills Required": "Site supervision, Construction planning, Blueprint interpretation, Quantity surveying, Safety compliance, Communication",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Junior Design Engineer",
+        "Skills Required": "AutoCAD, STAAD Pro, Structural analysis, Drafting, Cost estimation, Report writing",
+        "CGPA": 6.8
+    },
+    {
+        "Job Role": "Quality Control Engineer (Civil)",
+        "Skills Required": "Material testing, Inspection, Site audits, Compliance, Reporting, Analytical thinking",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Graduate Engineer Trainee (GET)",
+        "Skills Required": "Construction basics, MS Excel, Project coordination, Communication, Planning, Problem-solving",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Electrical Design Engineer",
+        "Skills Required": "Electrical system design, CAD/schematic drawing, Power electronics, Compliance standards, MATLAB/Simulink, Testing",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Embedded Systems Engineer",
+        "Skills Required": "C/C++, Microcontrollers, Hardware-software integration, Testing & debugging, Real-time systems",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Power Electronics Engineer",
+        "Skills Required": "Converter/inverter design, Simulation, PCB layout, Power semiconductors, Thermal management, Testing",
+        "CGPA": 7.2
+    },
+    {
+        "Job Role": "Reliability / Maintenance Engineer (Electrical)",
+        "Skills Required": "Failure mode analysis (FMEA), Predictive maintenance techniques, Root-cause analysis, Reliability metrics (MTBF, downtime), Data analysis (Excel, MATLAB), Scheduling & logistics planning",
+        "CGPA": 7.5
+    },
+    {
+        "Job Role": "VLSI / IC Design Engineer",
+        "Skills Required": "Digital & analog circuit design, EDA tools (Cadence, Synopsys), Verification, Layout design, RTL coding, Testing",
+        "CGPA": 7.5
+    },
+    {
+        "Job Role": "Test / QA Engineer (Electronics)",
+        "Skills Required": "Test plan creation, Fault diagnosis, Signal integrity, Measurement tools, Documentation, Compliance testing",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Robotics & Automation Engineer",
+        "Skills Required": "Control systems, Sensors & actuators, Embedded programming, ROS/robotics frameworks, System integration",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "CNC Machinist / Technician",
+        "Skills Required": "CNC programming, Blueprint reading, Precision measurement, Machine setup, Attention to detail",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Production / Manufacturing Technician",
+        "Skills Required": "Production scheduling, Quality control, Process optimization, Equipment operation, Team coordination",
+        "CGPA": 6.8
+    },
+    {
+        "Job Role": "Mechanical Design Engineer",
+        "Skills Required": "CAD (SolidWorks, AutoCAD), FEA, Prototyping, Material selection, Testing, Problem-solving",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Maintenance Technician",
+        "Skills Required": "Preventive maintenance, Troubleshooting, Equipment repair, Safety compliance, Documentation",
+        "CGPA": 6.8
+    },
+    {
+        "Job Role": "Junior Structural Design Engineer",
+        "Skills Required": "Structural analysis, STAAD Pro / ETABS, AutoCAD, Drafting, Load calculations",
+        "CGPA": 6.8
+    },
+    {
+        "Job Role": "Planning Engineer",
+        "Skills Required": "Project scheduling, MS Excel, Quantity surveying, Resource planning, Reporting",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Surveyor / Drafter",
+        "Skills Required": "AutoCAD, GIS, Surveying instruments, Technical drawing, Attention to detail",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Electrical Technician",
+        "Skills Required": "Circuit assembly, Testing & debugging, Wiring & layout, Multimeter usage, Safety standards",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Power Systems Engineer",
+        "Skills Required": "Power distribution, Transformer design, Load flow analysis, Protection systems, MATLAB/SIMULINK",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Embedded Firmware Engineer",
+        "Skills Required": "C/C++, Microcontrollers, RTOS basics, PCB testing, Debugging tools",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Test / QA Engineer (Electronics)",
+        "Skills Required": "Test plan creation, Oscilloscope usage, Signal integrity, Automated testing, Documentation",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "VLSI Verification Engineer",
+        "Skills Required": "Verilog/VHDL, EDA tools (Cadence), Functional verification, Testbench development, RTL design",
+        "CGPA": 7.5
+    },
+    {
+        "Job Role": "IoT Systems Engineer",
+        "Skills Required": "Embedded C, Sensor integration, Networking (MQTT), Cloud connectivity, Security basics",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Automotive Engineer",
+        "Skills Required": "Vehicle systems design, CAD, Manufacturing processes, Testing & diagnostics, Problem-solving",
+        "CGPA": 6.8
+    },
+    {
+        "Job Role": "HVAC Engineer",
+        "Skills Required": "HVAC design, Thermodynamics, Energy efficiency, System analysis, AutoCAD",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Project Engineer",
+        "Skills Required": "Project planning, Budgeting, Scheduling, Risk management, Communication",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Renewable Energy Engineer",
+        "Skills Required": "Solar/Wind systems, Mechanical design, Energy analysis, Sustainability, Data analysis",
+        "CGPA": 6.8
+    },
+    {
+        "Job Role": "Structural Engineer",
+        "Skills Required": "Structural analysis, STAAD Pro/ETABS, AutoCAD, Load calculations, Drafting",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Civil Estimator",
+        "Skills Required": "Cost estimation, Tendering, Quantity surveying, Construction planning, Excel",
+        "CGPA": 6.8
+    },
+    {
+        "Job Role": "Site Manager / Construction Manager",
+        "Skills Required": "Site supervision, Budget & schedule management, Quality control, Stakeholder coordination, Safety compliance",
+        "CGPA": 7.2
+    },
+    {
+        "Job Role": "Field Support Engineer (Electrical)",
+        "Skills Required": "Troubleshooting, Control panel testing, Schematic reading, Customer interaction, Technical reporting",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Electronics Technician",
+        "Skills Required": "Assembly, Testing, Troubleshooting, Diagnostic tools, Maintenance",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Power Systems Engineer",
+        "Skills Required": "Power distribution, Protection systems, Load flow analysis, MATLAB/Simulink, Transformer design",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Electronic Systems Test Engineer",
+        "Skills Required": "Test plan creation, Oscilloscope use, Signal testing, Fault diagnosis, Documentation",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "VLSI Verification Engineer",
+        "Skills Required": "Verilog/VHDL, RTL verification, Testbench development, EDA tools, Functional testing",
+        "CGPA": 7.5
+    },
+    {
+        "Job Role": "IoT Engineer",
+        "Skills Required": "Embedded C/C++, Sensor interfaces, MQTT/Networking, Cloud connectivity, Security basics",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Systems Engineer",
+        "Skills Required": "Systems integration, Requirements analysis, Testing & validation, Problem-solving, Communication",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Project Engineer / Project Manager",
+        "Skills Required": "Project planning, Budget & schedule management, Risk assessment, Stakeholder coordination, MS Project",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Engineering Technologist / Technician",
+        "Skills Required": "Testing & prototyping, Data collection, Technical reports, Quality control, Implementation",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Sales Engineer",
+        "Skills Required": "Technical sales, Client interaction, Proposal writing, Engineering knowledge, Negotiation",
+        "CGPA": 6.8
+    },
+    {
+        "Job Role": "Mechatronics Engineer",
+        "Skills Required": "Mechanisms design, PLCs, Robotics, Control systems, Embedded programming",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "R&D Engineer",
+        "Skills Required": "Prototyping, Simulation (FEA/CFD), Data analysis, Problem-solving, Research",
+        "CGPA": 7.5
+    },
+    {
+        "Job Role": "Automation Engineer",
+        "Skills Required": "PLC programming, SCADA/HMI, Process automation, Robotics integration, Troubleshooting",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Quantity Surveyor / Estimator",
+        "Skills Required": "Cost estimation, Bill of quantities, Tender documentation, Excel, Planning",
+        "CGPA": 6.8
+    },
+    {
+        "Job Role": "Structural Design Engineer",
+        "Skills Required": "Structural analysis, STAAD Pro/ETABS, AutoCAD, Load calcs, Drafting",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Power Systems Engineer",
+        "Skills Required": "Power flow analysis, Protection systems, Distribution design, MATLAB/Simulink, Transformer ratings",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Field Support / Field Service Engineer",
+        "Skills Required": "Troubleshooting, Control panel testing, Customer interaction, Technical reports, On-site support",
+        "CGPA": 6.8
+    },
+    {
+        "Job Role": "Embedded / Firmware Engineer",
+        "Skills Required": "C/C++, Microcontroller programming, Hardware-software integration, RTOS basics, Debugging",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "VLSI Verification Engineer",
+        "Skills Required": "Verilog/VHDL, Testbench development, RTL verification, EDA tools (Cadence, Synopsys), Functional testing",
+        "CGPA": 7.5
+    },
+    {
+        "Job Role": "Consulting Engineer / Management Consultant",
+        "Skills Required": "Problem-solving, Data analysis, Process optimization, Client engagement, Reporting",
+        "CGPA": 7.0
+    },
+    {
+        "Job Role": "Technical Writer",
+        "Skills Required": "Technical documentation, Research, Editing, Communication, Attention to detail",
+        "CGPA": 6.5
+    },
+    {
+        "Job Role": "Environmental / Sustainability Engineer",
+        "Skills Required": "Environmental analysis, Sustainability practices, Waste management, Regulatory compliance, Reporting",
+        "CGPA": 6.8
+    }
+
+]
